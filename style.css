@@ -1,0 +1,24 @@
+.forms{
+    /* text-align: center; */
+    border: 1px rgb(176, 115, 115);
+    background-color: aquamarine;
+    width: 20%;
+    margin: auto;
+    margin-top: 200px;
+    padding: 25px;
+    border-radius: 10px;
+    
+}
+
+label
+{
+    margin: 10px;
+}
+input
+{
+
+    margin: 10px;
+}
+button{
+    text-align: center;
+}
